@@ -6,7 +6,7 @@ public class Testapp {
 
 	@Test
 	public void testRien(){
-		plop
 		//TODO
+		System.out.println("serveur");
 	}
 }
